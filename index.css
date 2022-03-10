@@ -1,0 +1,17 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  background-color: #EA99D5;
+  padding: 0px;
+  margin: 0px;
+}
+body .contenedor .parrafos{
+  text-align: center;
+}
+body .contenedor .img img{
+  width: 200px;
+  text-align: none;
+}
+body .contenedor{
+  /* display: flex; */
+  text-align: center;
+}
